@@ -1,0 +1,15 @@
+# Local data, trained models and notebook checkpoints
+data/*
+!data/README.md
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# LaTeX build files (keep the compiled report)
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
