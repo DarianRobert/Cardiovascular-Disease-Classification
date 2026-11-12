@@ -57,3 +57,7 @@ To rebuild the report with a LaTeX installation: from `report/`, run `latexmk -p
 Developed for **COMP721: Machine Learning**, University of KwaZulu-Natal, 2026, by **Lokadi Naicker, Arjun Ramphal, Keolin Naicker and Darian Robert**.
 
 The report records an equal 25% contribution for each member. **My contribution (Darian Robert): exploratory data analysis, literature review and report writing.** The models and complete pipeline are presented as the team's work.
+
+## Code readability
+
+The notebook uses consistent Python formatting and concise section comments. The original experiment logic, saved outputs and model settings are preserved; formatting has not been used to regenerate the reported results. Colab setup and dataset paths are documented in the notebook.
